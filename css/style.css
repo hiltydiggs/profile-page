@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding-bottom: 25px;
+  background-color: #ffffff;
+  background-image: url("http://learningdevsite.com/resources/bright-squares.png");
+}
+
+.btn:hover {
+  color: #18BC9C !important;
+}
+
+.btn-info:hover {
+  background-color: #0F85D1 !important;
+}
+
+.description {
+  min-height: 75px;
+}
